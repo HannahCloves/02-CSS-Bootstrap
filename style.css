@@ -1,0 +1,10 @@
+
+/* styling for navigation bar */
+#name {
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background: #5eb5ac;
+}
+
