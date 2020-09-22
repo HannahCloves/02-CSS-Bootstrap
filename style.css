@@ -10,21 +10,26 @@ body {
     color: white;
     font-size: 25px;
     font-weight: bold;
-    background: #5eb5ac;
+    background-color: black;
 }
-
-nav {
-    background-color: #f2f2f2;
-}
-
-section {
-    background-color:black;
-    color:#5eb5ac;
-    padding: 10px,10px,10px,10px;
-    
-}
-
 .info {
     background-color: white;
-    
+    font-size: 15px;
+
 }
+
+#aboutmerow {
+    margin-top: auto;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+  }
