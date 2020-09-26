@@ -27,7 +27,7 @@ This page currently holds place holder images. In the future these will turn int
 
 *******************************************************
 
-### Portfolio Page
-This page holds a title, with an image of the person and a little blurb about them.
+### Contact Page
+This page holds a form where you can fill out your name, email address and a message that can be sent to the owner of the page.
 
 ![Contact Page](/Assets/ContactPage.png)
