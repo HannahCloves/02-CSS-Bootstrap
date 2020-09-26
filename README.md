@@ -6,7 +6,7 @@ The portfolio website has 3 main pages;
 2. Contact Page
 3. Portfolio Page
 
-To access the page, please use link https://hannahcloves.github.io/02-CSS-Bootstrap/.
+To access the page, please use link https://hannahcloves.github.io/2-Responsive-Portfolio/
 
 ### Overview
 Each page has a nav bar and footer that is consistant on each page. There are 3 pages linked in the nav bar that take you to different parts of the website.
