@@ -40,7 +40,7 @@ This page holds a form where you can fill out your name, email address and a mes
 
 ### Credits
 
-[Snow vector created by bamdewanto - www.freepik.com](https://www.freepik.com/vectors/snow)
-[Logo vector created by catalyststuff - www.freepik.com](https://www.freepik.com/vectors/logo)  
-[Calendar vector created by stories - www.freepik.com](https://www.freepik.com/vectors/calendar)
-[Background vector created by freepik - www.freepik.com](https://www.freepik.com/vectors/background)
+[Snow vector created by bamdewanto - www.freepik.com](https://www.freepik.com/vectors/snow)      
+[Logo vector created by catalyststuff - www.freepik.com](https://www.freepik.com/vectors/logo)        
+[Calendar vector created by stories - www.freepik.com](https://www.freepik.com/vectors/calendar)          
+[Background vector created by freepik - www.freepik.com](https://www.freepik.com/vectors/background)          
