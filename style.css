@@ -1,19 +1,19 @@
 /*background colour for all html pages */
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 /* styling for navigation bar */
-.navbar, a {
-color: #e5e5e5;
+.navbar,
+a {
+  color: #e5e5e5;
   font-size: 20px;
   background-color: #14213d;
 }
 
 #name {
-    font-size: 25px;
+  font-size: 25px;
 }
-
 
 /* styling for main information box */
 
@@ -24,12 +24,11 @@ color: #e5e5e5;
 }
 
 .info {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   font-size: 20px;
   padding: 25px;
   border-style: solid;
   border-color: #14213d;
-
 }
 
 /* styling for footer */
@@ -42,4 +41,18 @@ footer {
   background-color: #14213d;
   color: #e5e5e5;
   text-align: center;
+}
+
+.img {
+    max-width: 50%;
+    height: auto;
+  }
+
+@media screen and (max-width: 600px) {
+  #imgProfile {
+    display: none;
+  }
+  #bioProfile {
+    text-align: center;
+  }
 }
