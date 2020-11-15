@@ -15,12 +15,19 @@ a {
   font-size: 25px;
 }
 
+.navbar-toggler {
+  border-color: #e5e5e5;
+}
+
+.button {
+  background-color: #14213d;
+  color: #e5e5e5;
+}
 /* styling for main information box */
 
 .container {
   padding-top: 35px;
   padding-bottom: 35px;
-  color: #14213d;
 }
 
 .info {
@@ -29,6 +36,25 @@ a {
   padding: 25px;
   border-style: solid;
   border-color: #14213d;
+
+}
+
+/* styling for images on portfolio page */
+h5{
+  text-align: center;
+}
+
+.img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#imageLinks {
+  padding-top: 15px;
 }
 
 /* styling for footer */
@@ -42,24 +68,3 @@ footer {
   color: #e5e5e5;
   text-align: center;
 }
-
-.polaroid {
-  width: 80%;
-  background-color: white;
-  margin-bottom: 25px;
-}
-
-h5{
-  text-align: center;
-}
-
-
-.img {
-    max-width: 50%;
-    height: auto;
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  }
-

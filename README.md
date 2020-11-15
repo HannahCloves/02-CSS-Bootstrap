@@ -28,14 +28,14 @@ This is the initial load page, where it will show an image and a short bio. Ther
 ### Portfolio Page
 This page currently holds place holder images. In the future these will turn into links to projects.
 
-![Portfolio Page](/Assets/PortfolioPage.png)
+![Portfolio Page](/Assets/PortfolioPage.PNG)
 
 *******************************************************
 
 ### Contact Page
 This page holds a form where you can fill out your name, email address and a message that can be sent to the owner of the page.
 
-![Contact Page](/Assets/ContactPage.png)
+![Contact Page](/Assets/ContactPage.PNG)
 
 
 ### Credits
