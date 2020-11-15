@@ -26,7 +26,7 @@ This is the initial load page, where it will show an image and a short bio. Ther
 *******************************************************
 
 ### Portfolio Page
-This page currently holds place holder images. In the future these will turn into links to projects.
+This is to showcase my portfolio, has been updated with images and titles to each project piece.
 
 ![Portfolio Page](/Assets/PortfolioPage.PNG)
 
