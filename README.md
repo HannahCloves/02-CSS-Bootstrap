@@ -6,6 +6,8 @@ The portfolio website has 3 main pages;
 2. Contact Page
 3. Portfolio Page
 
+and 2 externally linked pages
+
 To access the page, please use link https://hannahcloves.github.io/2-Responsive-Portfolio/
 
 ### Overview
